@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FT009 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RegistroFT009>
+		<company>assist</company>
+		<name>Alejandra</name>
+		<email>aleja@gmail.com</email>
+		<phone>3177378803</phone>
+		<country>Colombia</country>
+		<message>revisar bot</message>
+	</RegistroFT009>
+	<RegistroFT009>
+		<company>udemy</company>
+		<name>Mary</name>
+		<email>mar@gmail.com</email>
+		<phone>3022828282</phone>
+		<country>Chile</country>
+		<message>curso rocketbot finalizado</message>
+	</RegistroFT009>
+</FT009>
