@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductosLibreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ProductosLibreria>
+		<Id_Producto></Id_Producto>
+		<Codigo></Codigo>
+		<Descripcion></Descripcion>
+		<Medida></Medida>
+		<Costo_Compra></Costo_Compra>
+		<Costo_venta></Costo_venta>
+	</ProductosLibreria>
+	<ProductosLibreria>
+		<Id_Producto></Id_Producto>
+		<Codigo></Codigo>
+		<Descripcion></Descripcion>
+		<Medida></Medida>
+		<Costo_Compra></Costo_Compra>
+		<Costo_venta></Costo_venta>
+	</ProductosLibreria>
+	
+</ProductosLibreria>

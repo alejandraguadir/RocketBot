@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductosLibreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ProductosLibreria>
+		<Codigo>P006</Codigo>
+		<Descripcion>Hojas Bond</Descripcion>
+		<Medida>Ciento</Medida>
+		<Costo_Compra>120000</Costo_Compra>
+		<Costo_venta>150000</Costo_venta>
+	</ProductosLibreria>
+	<ProductosLibreria>
+		<Codigo>P010</Codigo>
+		<Descripcion>Papeleria de regalo</Descripcion>
+		<Medida>Ciento</Medida>
+		<Costo_Compra>80000</Costo_Compra>
+		<Costo_venta>100000</Costo_venta>
+	</ProductosLibreria>
+</ProductosLibreria>
